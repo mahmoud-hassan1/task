@@ -1,28 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <ClCompile Include="D:\Flutter\first_project\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+    <ClCompile Include="D:\Flutter\task\task\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\Flutter\first_project\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+    <ClCompile Include="D:\Flutter\task\task\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\Flutter\first_project\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+    <ClCompile Include="D:\Flutter\task\task\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="D:\Flutter\first_project\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+    <ClCompile Include="D:\Flutter\task\task\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <CustomBuild Include="D:\Flutter\first_project\windows\flutter\CMakeLists.txt" />
+    <CustomBuild Include="D:\Flutter\task\task\windows\flutter\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{20D16DEC-BE19-3B49-9BDA-A403DB640325}</UniqueIdentifier>
+      <UniqueIdentifier>{A7A02627-BE7C-39EE-BD62-63B6B70B6155}</UniqueIdentifier>
     </Filter>
     <Filter Include="Source Files">
-      <UniqueIdentifier>{85B21A10-EAFA-3A81-A41D-B639BAF3DBC9}</UniqueIdentifier>
+      <UniqueIdentifier>{72D43205-F608-378F-8819-D0BF53FBD504}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
